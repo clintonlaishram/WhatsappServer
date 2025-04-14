@@ -1,4 +1,4 @@
-```markdown
+
 # Bulk WhatsApp Message
 
 Automate sending WhatsApp messages in bulk using data from a Google Sheet.
@@ -46,7 +46,7 @@ node index.js
 
 ### 6. Add Public URL to Sheet
 - Copy the generated **public URL**.
-- Paste it into the **last column** of your Google Sheet for each row/message.
+- Paste it into the **last column** of your Google Sheet second row.
 
 ---
 
@@ -91,4 +91,3 @@ MIT License
 ## 🤝 Contributions
 
 Feel free to open issues or submit PRs to enhance the project.
-```
